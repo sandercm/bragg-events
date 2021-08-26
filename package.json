@@ -10,6 +10,10 @@
     "bragg",
     "event-bridge"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandercm/bragg-events"
+  },
   "author": "Sander Machado",
   "license": "ISC",
   "devDependencies": {
