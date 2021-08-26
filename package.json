@@ -1,0 +1,19 @@
+{
+  "name": "bragg-events",
+  "version": "1.0.5",
+  "description": "Middleware to enable the use of eventbrige",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bragg",
+    "event-bridge"
+  ],
+  "author": "Sander Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "load-json-file": "^6.2.0"
+  }
+}

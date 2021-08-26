@@ -1,0 +1,14 @@
+{
+  "version": "0",
+  "id": "79ad0470-b35b-3229-3e06-45f1b2b7ef0e",
+  "detail-type": "test",
+  "source": "foo:test",
+  "account": "021094080944",
+  "time": "2021-05-03T08:33:59Z",
+  "region": "eu-west-1",
+  "resources": [],
+  "detail":
+  {
+    "test": "Test"
+  }
+}
